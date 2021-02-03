@@ -1,0 +1,17 @@
+mat-card {
+    width: 30%;
+}
+
+mat-card mat-form-field {
+    width: 100%;
+    margin: 1em 0;
+}
+
+h2 {
+    margin: 1em 0;
+}
+
+mat-card button {
+    display: block;
+    margin: 1em auto;
+}
